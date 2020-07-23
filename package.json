@@ -1,0 +1,24 @@
+{
+  "name": "sit752-prac2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izuru775/sit752-prac2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izuru775/sit752-prac2/issues"
+  },
+  "homepage": "https://github.com/izuru775/sit752-prac2#readme"
+}
